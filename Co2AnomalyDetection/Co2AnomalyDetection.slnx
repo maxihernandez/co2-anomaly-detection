@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Co2AnomalyDetection.Application/Co2AnomalyDetection.Application.csproj" />
+  <Project Path="Co2AnomalyDetection.Console/Co2AnomalyDetection.Console.csproj" />
+  <Project Path="Co2AnomalyDetection.Domain/Co2AnomalyDetection.Domain.csproj" />
+  <Project Path="Co2AnomalyDetection.Tests/Co2AnomalyDetection.Tests.csproj" />
+</Solution>
